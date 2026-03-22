@@ -26,6 +26,10 @@ Literally just plug the two legs of your capacitor into **Analog Pin A0** and **
 ## 💻 The Code
 Upload this directly to your Arduino Uno and open the Serial Monitor (set to 115200 baud).
 
+Caution---------------------------------------
+This code is written by AI. All credit goes to the people who discovered the techniques <3
+Thank you!!!
+
 ```cpp
 // Pins to use
 const int OUT_PIN = A2;
